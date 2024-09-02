@@ -101,6 +101,8 @@
     font-size: 20px;
 }
 
+
+
 .contact-submit {
     border: none;
     color: white;
@@ -116,4 +118,10 @@
 .contact-submit:hover {
     transform: scale(1.1);
     transition: 0.3s;
+}
+
+.contact-right span {
+    color: #D8D8D8;
+    font-size: 22px;
+    font-weight: 500;
 }
