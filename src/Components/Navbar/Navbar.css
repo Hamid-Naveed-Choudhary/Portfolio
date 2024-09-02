@@ -13,6 +13,23 @@
     font-size: 20px;
 }
 
+.nav-menu li {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    cursor: pointer;
+}
+
+.nav-menu li img {
+    display: flex;
+    margin: auto;
+}
+
+.anchor-link {
+    text-decoration: none;
+    color: white;
+}
+
 .nav-connect {
     padding: 20px 40px;
     border-radius: 50px;
