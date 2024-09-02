@@ -11,6 +11,7 @@
 }
 
 .footer-top-left p {
+    padding-left: 20px;
     font-size: 20px;
     max-width: 400px;
 }
